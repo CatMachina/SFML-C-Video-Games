@@ -1,0 +1,27 @@
+﻿  PlayableCharacter.cpp
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Thomas Was Here\PlayableCharacter.cpp(46,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Thomas Was Here\PlayableCharacter.cpp(51,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Thomas Was Here\PlayableCharacter.cpp(53,28): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Thomas Was Here\PlayableCharacter.cpp(56,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Thomas Was Here\PlayableCharacter.cpp(58,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Thomas Was Here.vcxproj -> C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Thomas Was Here\Debug\Thomas Was Late.exe
