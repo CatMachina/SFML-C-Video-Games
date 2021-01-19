@@ -1,0 +1,13 @@
+﻿  Timber.cpp
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(211,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(231,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(279,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(283,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(300,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(303,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(320,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(323,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(340,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(343,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Timber.cpp(392,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\Timber\Debug\Timber.exe
