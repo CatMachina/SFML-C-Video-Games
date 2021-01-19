@@ -1,0 +1,2 @@
+C:\Users\ryans\OneDrive\Documents\Coding\Learning Game Development and Stuff\javidx9\Text Tetris\Debug\Text Tetris.exe
+C:\Users\ryans\OneDrive\Documents\Coding\Learning Game Development and Stuff\javidx9\Text Tetris\Debug\Text Tetris.pdb
