@@ -1,0 +1,2 @@
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\ZombieArena\Debug\ZombieArena.exe
+C:\Users\ryans\OneDrive\Documents\Coding\Visual Studio SFML\Projects\ZombieArena\Debug\ZombieArena.pdb
